@@ -1,0 +1,3 @@
+C:/Users/CompuStore/CLionProjects/braille/cmake-build-debug/CMakeFiles/braille.dir
+C:/Users/CompuStore/CLionProjects/braille/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/CompuStore/CLionProjects/braille/cmake-build-debug/CMakeFiles/rebuild_cache.dir
